@@ -24,3 +24,5 @@ tags: [black eyed bean, egg, potato, tomato, cilantro, green peas]
 6. Mix everything together in a bowl.
 7. Season with salt, pepper and olive oil.
 8. Serve
+
+---

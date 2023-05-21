@@ -21,3 +21,5 @@ tags: [white bean, carrot, cauliflower]
 5. Blend until homogenous, season with salt and olive oil.
 6. Add the beans and mix.
 7. Serve.
+
+---

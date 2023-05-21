@@ -23,3 +23,5 @@ tags: [red lentil, sweet potato, pumpkin]
 6. Season with salt and pepper.
 7. Cover and let it simmer until ready.
 8. Serve with rice.
+
+---

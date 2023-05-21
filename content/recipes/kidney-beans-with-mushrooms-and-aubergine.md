@@ -7,3 +7,7 @@ tags: [kidney bean, mushroom, aubergine]
 ---
 
 # Ingredients
+
+# Method
+
+---

@@ -1,7 +1,7 @@
 ---
 title: Turkish Braised Green Beans
 description: Turkish Braised Green Beans
-date: 2023-07-22
+date: 2023-07-21
 draft: false
 tags: [green bean, tomato, onion]
 ---
